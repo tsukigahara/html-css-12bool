@@ -43,8 +43,8 @@
 
 }
 .col-7 {
-    flex-basis: calc((100% / 12) * 6);
-    max-width: calc((100% / 12) * 6);
+    flex-basis: calc((100% / 12) * 7);
+    max-width: calc((100% / 12) * 7);
 }
 .col-8 {
     flex-basis: calc((100% / 12) * 8);
@@ -86,7 +86,7 @@
     margin-left: calc((100% / 12) * 6);
 }
 .col-offset-7 {
-    margin-left: calc((100% / 12) * 6);
+    margin-left: calc((100% / 12) * 7);
 }
 .col-offset-8 {
     margin-left: calc((100% / 12) * 8);
